@@ -51,5 +51,7 @@ public class MainController extends HttpServlet {
 	//Dont change the above lines of code
 	
 //	Start Enterinng your code here...
-	
+	static int calculate(String name1, String name2) {
+		
+	}
 }
